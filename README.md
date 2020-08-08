@@ -1,6 +1,6 @@
 # Proffy
 
-####  REST API que irá servir a plataforma proffy-web e proffy-mobile
+####  REST API que irá servir as plataformas proffy-web e proffy-mobile
 
 ## Funcionalidades
 
